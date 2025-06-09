@@ -1,0 +1,1 @@
+ALTER TABLE `Odunc_Almalar` ADD COLUMN `Teslim_Tarihi` datetime NULL; 
